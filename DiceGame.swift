@@ -1,13 +1,13 @@
 //
-//  Microwave.swift
+//  DiceGame.swift
 //
 //  Created by Ryan Chung
 //  Created on 2021-11-18
 //  Version 1.0
 //  Copyright (c) 2020 Ryan Chung. All rights reserved.
 //
-//  This program calculates the heating time of different food items and
-//  quantities.
+//  This program generates a random number and asks the user to guess that
+//  number.
 //
 
 import Foundation
